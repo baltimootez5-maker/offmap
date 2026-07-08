@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+venv
+env
+build
+dist
+*.sqlite3
+api/api_data.db
+__pycache__/
+*.pyo
+*.pyd

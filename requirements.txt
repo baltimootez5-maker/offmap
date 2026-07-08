@@ -1,0 +1,9 @@
+streamlit
+Pillow
+requests
+fastapi
+uvicorn
+python-multipart
+aiofiles
+passlib[bcrypt]
+PyJWT
